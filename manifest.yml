@@ -1,0 +1,4 @@
+ applications:
+ - name: crypto-converter
+   random-route: true
+   memory: 512M

@@ -1,0 +1,10 @@
+/Users/aaa/Projects/crypto-converter/bin/Debug/netcoreapp2.0/crypto-converter.deps.json
+/Users/aaa/Projects/crypto-converter/bin/Debug/netcoreapp2.0/crypto-converter.runtimeconfig.json
+/Users/aaa/Projects/crypto-converter/bin/Debug/netcoreapp2.0/crypto-converter.runtimeconfig.dev.json
+/Users/aaa/Projects/crypto-converter/bin/Debug/netcoreapp2.0/crypto-converter.dll
+/Users/aaa/Projects/crypto-converter/bin/Debug/netcoreapp2.0/crypto-converter.pdb
+/Users/aaa/Projects/crypto-converter/obj/Debug/netcoreapp2.0/crypto-converter.csproj.CoreCompileInputs.cache
+/Users/aaa/Projects/crypto-converter/obj/Debug/netcoreapp2.0/crypto-converter.AssemblyInfoInputs.cache
+/Users/aaa/Projects/crypto-converter/obj/Debug/netcoreapp2.0/crypto-converter.AssemblyInfo.cs
+/Users/aaa/Projects/crypto-converter/obj/Debug/netcoreapp2.0/crypto-converter.dll
+/Users/aaa/Projects/crypto-converter/obj/Debug/netcoreapp2.0/crypto-converter.pdb
