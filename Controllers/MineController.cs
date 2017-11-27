@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using RestSharp;
+using System.Linq;
 
 namespace crypto_converter.Controllers{
     
@@ -46,5 +47,13 @@ namespace crypto_converter.Controllers{
             
             return await tcs.Task;
          }
+
+         [HttpGet]
+        public JsonResult CheckSymbols(){
+            return  Json( CURRENCIES.Where(o => o.Equals (Request.Query["filter"].ToString(),
+                StringComparison.OrdinalIgnoreCase)).ToList());
+        }
     }
+
+    
 }

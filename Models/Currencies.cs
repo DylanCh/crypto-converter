@@ -1,4 +1,7 @@
+using System;
+
 namespace crypto_converter.Models{
+    [Serializable]
     public class Currencies{
         public double TWD { get; set; }
         public double KRW { get; set; }
